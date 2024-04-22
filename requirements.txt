@@ -1,0 +1,7 @@
+math
+numpy
+pandas
+matplotlib
+student-mixture
+scikit-learn==0.22.2
+scipy --upgrade
