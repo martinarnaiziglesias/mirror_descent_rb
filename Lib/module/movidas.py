@@ -327,8 +327,8 @@ class stoch_sol_measures:
         if real_variance is not None: 
             print('==== volatilty of the portfolio ====')
             print(np.round(real_variance, 4))
-        print('==== volatility ====')
-        print(round(self.xi/sum(self.y),4)) #it is not really the volatilty, we need to introduce it in the function
+        #print('==== volatility ====')
+        #print(round(self.xi/sum(self.y),4)) #it is not really the volatilty, we need to introduce it in the function
 
                 
 
