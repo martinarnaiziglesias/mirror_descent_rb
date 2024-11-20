@@ -12,6 +12,6 @@ The project consists of eight notebooks:
 
 ## Notes
 
-- The necessary output files have already been saved in the `Output` folder and are ready for visualization.
+- The necessary output files have already been saved in the `Output` folder and are ready for visualization. (section 4.2 and 4.3)
 - Running any of the first four notebooks will overwrite the existing files in the `Output` folder and will require additional computation time.
 
